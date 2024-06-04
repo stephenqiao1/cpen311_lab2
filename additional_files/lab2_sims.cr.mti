@@ -1,0 +1,36 @@
+{C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/keyboard_fsm.v} {1 {vlog -work work -sv -stats=none {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/keyboard_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Keyboard_FSM
+
+Top level modules:
+	Keyboard_FSM
+
+} {} {}} {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/flash_read_fsm.v} {1 {vlog -work work -sv -stats=none {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/flash_read_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Flash_Read_FSM
+
+Top level modules:
+	Flash_Read_FSM
+
+} {} {}} {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/keyboard_fsm_tb.v} {1 {vlog -work work -sv -stats=none {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/keyboard_fsm_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Keyboard_FSM_tb
+
+Top level modules:
+	Keyboard_FSM_tb
+
+} {} {}} {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/address_fsm.v} {1 {vlog -work work -sv -stats=none {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/address_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Address_FSM
+
+Top level modules:
+	Address_FSM
+
+} {} {}} {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/address_fsm_tb.v} {1 {vlog -work work -sv -stats=none {C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/address_fsm_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Address_FSM_tb
+
+Top level modules:
+	Address_FSM_tb
+
+} {} {}}

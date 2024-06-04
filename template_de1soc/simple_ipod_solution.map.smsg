@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at address_fsm.v(8): object "restart" differs only in case from object "RESTART" in the same scope File: C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/address_fsm.v Line: 8
+Info (10281): Verilog HDL Declaration information at keyboard_fsm.v(8): object "restart" differs only in case from object "RESTART" in the same scope File: C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/keyboard_fsm.v Line: 8
+Info (10281): Verilog HDL Declaration information at switch_fsm.v(7): object "restart" differs only in case from object "RESTART" in the same scope File: C:/Users/steph/OneDrive/Desktop/UBC/4th Year/CPEN311/cpen311_lab2/template_de1soc/switch_fsm.v Line: 7
